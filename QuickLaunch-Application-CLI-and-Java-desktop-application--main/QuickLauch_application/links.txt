@@ -1,0 +1,4 @@
+Development=https://chatgpt.com,https://github.com/
+Leetcode=https://leetcode.com/problemset/
+Aptitude Prep=https://www.youtube.com/watch?v=AsYnEfOMs8I&list=PLrk5tgtnMN6SGlItiG3UVTGQq1aewWNdw,https://prepinsta.com/learn-aptitude/
+AI/ML Dev=https://colab.research.google.com/?utm_source=scs-index,https://drive.google.com/drive/folders/1UgCUJ44wnyKknkWHUa_UeEVCysCaoR-n
